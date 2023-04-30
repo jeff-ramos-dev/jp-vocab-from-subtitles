@@ -1,0 +1,18 @@
+body {
+    display: grid;
+    place-items: center;
+    background-color: black;
+    color: white;
+}
+
+input {
+    margin-top: 2rem;
+}
+
+a {
+    margin-top: 2rem;
+    text-decoration: none;
+    color: white;
+    border-bottom: 2px solid white;
+}
+
